@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="p-10">
+    <main className=p-10">
       <h1 className="text-5xl font-bold">
         BENTINO Servicios
       </h1>
@@ -13,8 +13,13 @@ export default function Home() {
         Atención en CABA y Zona Norte.
       </p>
 
-      <a
-        href="https://wa.me/5491164107178"
+      wa.me/5491164107178"
         target="_blank"
         rel="noopener noreferrer"
-        className="inline-block mt-6 bg-yellow-500 px-6 py-3 rounded-
+        className="inline-block mt-6 bg-yellow-500 px-6 py-3 rounded-lg font-bold"
+      >
+        WhatsApp 11 6410-7178
+      </a>
+    </main>
+  );
+}
