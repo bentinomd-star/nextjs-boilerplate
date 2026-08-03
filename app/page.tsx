@@ -39,7 +39,7 @@ export default function Home() {
       </section>
       <section className="bg-yellow-500 py-20 text-center">
         <h2 className="text-4xl font-black">¿Tenés algo para reparar?</h2>
-        <a href="https://wa.me/5491164107178" target="_blank" rel="noopener noreferrer" className="mt-8 inline-block rounded-xl bg-black px-8 py-4 font-bold text-white">WhatsApp 11 6410-7178</a>
+        <a href="https://wa.me/5491164107178" target="_blank" rel="noopener noreferrer" className="mt-8 inline-block rounded-xl bg-black px-8 py-4 font-bold text-white">¡Escribinos!</a>
       </section>
       <footer className="bg-black py-8 text-center text-white">BENTINO SERVICIOS · CABA y Zona Norte</footer>
     </main>
